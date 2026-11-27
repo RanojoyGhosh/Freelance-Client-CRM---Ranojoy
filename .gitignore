@@ -1,0 +1,4 @@
+# Never commit the Apps Script bridge — it holds your secret key
+Code.gs
+*.gs
+.env
